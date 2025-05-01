@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NandanaAnand
-- 👀 I’m interested in Augmented Reality
-- 🌱 I’m currently learning B.tech
+- 👀 I’m interested in Augmented Reality, Machine Learning, Deep Learning and cats
+- 🌱 I’m currently a B.tech student
 - 💞️ I’m looking to collaborate on learning endeavors
 - 📫 How to reach me nandana.anand004@gmail.com
 
